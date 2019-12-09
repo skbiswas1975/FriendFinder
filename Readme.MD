@@ -64,3 +64,8 @@ The closest match will be the user with the least amount of difference.
 Once you've found the current user's most compatible friend, display the result as a modal pop-up.
 
 The modal should display both the name and picture of the closest match.
+
+<img width="662" alt="Screen Shot 2019-12-06 at 9 04 44 PM" src="https://user-images.githubusercontent.com/54162286/70368265-18d06080-186e-11ea-899e-1e8f520f9161.png">
+
+
+
